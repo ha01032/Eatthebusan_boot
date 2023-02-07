@@ -1,2 +1,2 @@
-# SpringBootExs
-수업 교재 참고 문헌 : 스프링 부트 쇼핑몰 프로젝트 with JPA 저자 변구훈 출판사 로드북
+# SpringBoot
+board를 기본틀로해서 메인화면만 구축
